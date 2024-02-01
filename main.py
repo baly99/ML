@@ -34,7 +34,7 @@
 
 # 6. **Simple Correlation Analysis**: Identify any correlation between salary and another numerical column, and plot a scatter plot to visualize the relationship.
 
-# 8. **Summary of Insights**: Write a brief report summarizing the findings and insights from the analyses.
+# 7. **Summary of Insights**: Write a brief report summarizing the findings and insights from the analyses.
 
 
 # Very Important Note
@@ -210,7 +210,7 @@ plt.title('Relationship between Salary and Years of Experience')
 plt.show()
 
 
-# 8. **Summary of Insights**: Write a brief report summarizing the findings and insights from the analyses.
+# 7. **Summary of Insights**: Write a brief report summarizing the findings and insights from the analyses.
 
 
 # Introduction:
